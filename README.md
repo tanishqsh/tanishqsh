@@ -8,5 +8,3 @@ I have founded **some** successful ([Whoosh](https://wearwhoosh.com), [TheLabs](
 🕺– You can consider me just-passable as a designer.
 🧠 – I can be handy with brand strategy, psychological understanding of consumers and brand positioning.
 🐦 [Drop me an message on Twitter](https://twitter.com/tanishqxyz)
-
-![Know My Stats! ](https://github-readme-stats.vercel.app/api?username=tanishqsh)
