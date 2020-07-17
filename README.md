@@ -7,4 +7,4 @@ I have founded **some** successful ([Whoosh](https://wearwhoosh.com), [TheLabs](
 👨‍💻 I usually code with JavaScript (MERN) with increasing focus on JAM Stack.  
 🕺 You can consider me just-passable as a designer.  
 🧠 I can be handy with brand strategy, psychological understanding of consumers and brand positioning.  
-🐦 [Drop me an message on Twitter](https://twitter.com/tanishqxyz)
+🐦 [Drop me a message on Twitter](https://twitter.com/tanishqxyz)
