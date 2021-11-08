@@ -6,6 +6,6 @@ I have founded **some** successful ([Whoosh](https://wearwhoosh.com), [TheLabs](
 
 👨‍💻 I usually code with JavaScript (MERN) with increasing focus on JAM Stack.  
 🕺 You can probably [consider me just passable as a designer 🤭](https://www.behance.net/tanishqsh).  
-🎨 Or you can explore the absurdism with me, as I create art of it at Foundation. [Checkout my Absurdism series.](https://foundation.app/@tanishq). 
+🎨 Or you can explore the absurdism artist in me. [Checkout my Absurdism series on Foundation](https://foundation.app/@tanishq).\
 🧠 I can be handy with brand strategy, psychological understanding of consumers and brand positioning.  
 🐦 [Drop me a message on Twitter](https://twitter.com/tanishqxyz)
