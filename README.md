@@ -1,6 +1,5 @@
-## Hi everyone 👋
 
-I am Tanishq – An engineer designer & entrepreneur. 
+## I am Tanishq – An engineer, designer & entrepreneur. 
 
 ⭐️ Current: Building the next-generation of off-ramp at [Palladium](https://0xPalladium.com)
 
