@@ -1,7 +1,7 @@
 
 ## I am Tanishq – An engineer, designer & entrepreneur. 
 
-⭐️ Current: Building banking for the decentralized at [Palladium](https://twitter.com/0xPalladium)
+⭐️ Current: Building banking for the decentralized at [Palladium](https://twitter.com/palladium)
 
 Past: For 8 years I have lead [Scarlet](https://bescarlet.com), a conceptualisation studio, and have helped people start their brands, deploy their products and perform well in the market through product development, brand strategy and advertising. I have founded **some** successful ([Whoosh](https://wearwhoosh.com), [TheLabs](https://thelabs.in)) and **many** failed brands _(Codecostume, Private Cubicles, Logodeer.. etc)_ and products over the last few years as I experimented with various aspects of life. I have experimented with various [web3 tools](https://tanishq.xyz/tools)
 
